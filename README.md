@@ -1,9 +1,7 @@
-# vivino-systembolaget
-Chrome extension to show vivino score on systembolaget website
+# vivino-bachus
+Chrome extension to show vivino score on wina-bachus.pl website
 
-![Screenshot](https://lazyd3v.com/images/systembolaget-screen.png "Screenshot")
-
-More info about this extension could be found [in my blog](https://lazyd3v.com/posts/vivino-x-systembolaget/)
+Original info about this extension could be found [in lazyd3v blog](https://lazyd3v.com/posts/vivino-x-systembolaget/)
 
 ## How to use?
 1. Execute `yarn` to install dependencies
